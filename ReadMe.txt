@@ -1,0 +1,1 @@
+This project creates a simple C# class that calculates tips, tax and total and then creates a unit test project to test each of its methods.
